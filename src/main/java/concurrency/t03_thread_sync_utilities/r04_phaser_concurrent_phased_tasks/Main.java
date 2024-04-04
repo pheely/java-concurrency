@@ -1,4 +1,4 @@
-package concurrency.t03_thread_sync_utilities.r04_concurrent_phased_tasks;
+package concurrency.t03_thread_sync_utilities.r04_phaser_concurrent_phased_tasks;
 
 import java.util.concurrent.Phaser;
 
