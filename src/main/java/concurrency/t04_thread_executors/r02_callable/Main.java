@@ -1,4 +1,4 @@
-package concurrency.t04_thread_executor.r02_callable;
+package concurrency.t04_thread_executors.r02_callable;
 
 import java.util.ArrayList;
 import java.util.List;

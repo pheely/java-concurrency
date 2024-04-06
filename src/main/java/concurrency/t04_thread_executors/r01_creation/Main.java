@@ -1,4 +1,4 @@
-package concurrency.t04_thread_executor.r01_creation;
+package concurrency.t04_thread_executors.r01_creation;
 
 public class Main {
   public static void main(String[] args) {

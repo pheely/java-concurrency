@@ -1,4 +1,4 @@
-package concurrency.t04_thread_executor.r03_first_result_among_many_tasks;
+package concurrency.t04_thread_executors.r03_first_result_among_many_tasks;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

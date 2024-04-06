@@ -1,4 +1,4 @@
-package concurrency.t04_thread_executor.r01_creation;
+package concurrency.t04_thread_executors.r01_creation;
 
 import java.util.Date;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package concurrency.t04_thread_executor.r04_all_results_of_many_tasks;
+package concurrency.t04_thread_executors.r04_all_results_of_many_tasks;
 
 import java.util.ArrayList;
 import java.util.List;

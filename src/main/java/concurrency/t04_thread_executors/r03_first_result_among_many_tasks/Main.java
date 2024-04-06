@@ -1,6 +1,5 @@
-package concurrency.t04_thread_executor.r03_first_result_among_many_tasks;
+package concurrency.t04_thread_executors.r03_first_result_among_many_tasks;
 
-import concurrency.t04_thread_executor.r01_creation.Task;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
